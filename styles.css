@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+*{
+	margin : 0px;
+	padding : 0px;
+
+}
+
+body h1{
+	font-size : 25px;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+blockquote{
+Max-width:  600px;
+Margin: 10px;
+Padding:  15px;
+Border-left: 8px solid green;
+Background-color: #f9fffe;
+Font-weight: Bold;
+font-size: 15px;
+}
